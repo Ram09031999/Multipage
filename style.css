@@ -1,0 +1,1062 @@
+/* ..............hOME.......... */
+
+.sub1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(Assests/sec1\ bg.jpg);
+  /* padding-left: 80px;
+  padding-right: 50px; */
+}
+.sec1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(Assests/sec1\ bg.jpg);
+}
+
+#box1 {
+  padding: 114px 132px;
+}
+#box2 {
+  margin-top: 50px;
+  padding: 97px 126px 0px;
+  h1 {
+    font-weight: 700;
+  }
+  p {
+    font-size: 17px;
+    margin: 20px 0 0;
+  }
+}
+.input {
+  width: 250px;
+  border: none;
+}
+.submit {
+  border: none;
+  color: white;
+  background-color: blue;
+  border-radius: 30px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  width: 359px;
+  margin: 20px 0 0;
+  background-color: rgba(224, 211, 211, 0.973);
+}
+.mail {
+  margin: 30px 0 0;
+}
+.num {
+  margin-left: 34px;
+  font-size: 1.55rem;
+  padding: 0px;
+  margin-bottom: 13px;
+}
+.icon {
+  position: absolute;
+  margin-bottom: 10px;
+}
+/* .............symbols................. */
+.sym {
+  margin-top: -40px;
+  overflow-x: hidden;
+}
+
+#symbols {
+  text-align: center;
+  padding: 50px;
+  margin-left: 98px;
+  opacity: 0.4;
+}
+/* <!-- ............Section2........... --> */
+#sec2 {
+  color: #111111;
+  background-color: #d5dde4;
+  overflow-x: hidden;
+}
+#sec2sub1 {
+  padding: 90px 138px;
+  line-height: 1.6;
+  h1 {
+    font-weight: 700;
+  }
+}
+#sec2sub2 {
+  padding: 30px;
+  display: grid;
+}
+.button {
+  border-radius: 30px;
+  background-color: rgb(107, 102, 179);
+  color: white;
+  text-align: center;
+  width: 130px;
+  height: 40px;
+}
+
+/* .............Section 2................. */
+
+.icon1 {
+  margin: 55px 132px 18px;
+}
+.h6 {
+  padding: 0px 68px;
+  text-align: center;
+}
+.idea {
+  margin: 55px 132px 18px;
+}
+.h61 {
+  padding: 0px 68px;
+  text-align: center;
+}
+.setting {
+  margin: 55px 132px 18px;
+}
+.h62 {
+  padding: 0px 68px;
+  text-align: center;
+}
+.map {
+  margin: 55px 132px 18px;
+}
+.h63 {
+  padding: 0px 68px;
+  text-align: center;
+}
+#total {
+  background-color: rgb(228, 156, 156);
+  border-radius: 115px;
+}
+
+/* <!-- ............Section3........... --> */
+.sec3 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow-x: hidden;
+  background-image: url(Assests/two\ bg.jpg);
+}
+
+#mobile {
+  padding: 75px 93px;
+}
+#mobile1 {
+  /* padding: 158px 267px 0px 3px; */
+  padding: 185px 134px 0px 30px;
+  line-height: 1.6;
+  h1 {
+    font-family: Ubuntu, sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+  }
+  .READ {
+    border-radius: 30px;
+    background-color: rgb(107, 102, 179);
+    color: white;
+    text-align: center;
+    width: 130px;
+    height: 40px;
+    font-weight: 700;
+  }
+}
+
+.subsec3 {
+  background-color: skyblue;
+  width: 100%;
+  height: 240px;
+}
+.convert {
+  background-color: white;
+  width: 885px;
+  height: auto;
+  padding: 18px;
+  border-radius: 50px;
+  display: flex;
+  margin-top: 50px;
+  position: absolute;
+  margin-left: 292px;
+}
+.get {
+  border-radius: 30px;
+  background-color: rgb(107, 102, 179);
+  color: white;
+  text-align: center;
+  width: 130px;
+  height: 40px;
+  font-weight: 700;
+  margin-top: 40px;
+  margin-left: 100px;
+}
+/* <!-- ............Section4........... --> */
+.sec4 {
+  color: #111111;
+  background-color: #d5dde4;
+  overflow-x: hidden;
+}
+#one {
+  background-color: white;
+  padding: 50px;
+  border-radius: 93px;
+  h1 {
+    color: orange;
+  }
+}
+#two {
+  background-color: white;
+  padding: 50px;
+  border-radius: 93px;
+  h1 {
+    color: orange;
+  }
+}
+#three {
+  background-color: white;
+  padding: 50px;
+  border-radius: 93px;
+  h1 {
+    color: orange;
+  }
+}
+#four {
+  background-color: white;
+  padding: 50px;
+  border-radius: 93px;
+  h1 {
+    color: orange;
+  }
+}
+#number {
+  height: 500px;
+  width: 677px;
+  text-align: center;
+  padding: 60px 0px 0px 78px;
+  margin-left: 80px;
+}
+#number2 {
+  padding: 33px 46px 0px 90px;
+}
+
+/* <!-- ............Section5........... --> */
+#he {
+  padding: 30px 286px;
+  text-align: center;
+  background-color: white;
+}
+#row1 {
+  background-color: white;
+  column-gap: 20px;
+  padding: 10px 50px;
+}
+
+#lap {
+  background-image: url(Assests/lap.jpg);
+  background-size: cover;
+  width: 400px;
+  height: 300px;
+}
+#lap:hover {
+  transform: scale(0.91);
+}
+#lap2 {
+  background-image: url(Assests/pad.jpg);
+  background-size: cover;
+  width: 400px;
+  height: 300px;
+}
+#lap2:hover {
+  transform: scale(0.91);
+}
+#lap3 {
+  background-image: url(Assests/woman.jpg);
+  background-size: cover;
+  width: 400px;
+  height: 300px;
+}
+#lap3:hover {
+  transform: scale(0.91);
+}
+/* <!-- ............Section6........... --> */
+.sec6 {
+  background-color: #d5dde4;
+  height: 665px;
+}
+
+.digital {
+  border: 1px soild red;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  p {
+    padding: 15px 391px;
+  }
+}
+
+#extra {
+  padding-bottom: 20px;
+}
+#row8 {
+  /* border: 2px solid red; */
+  padding: 0px 124px 0px 116px;
+  min-height: 200px;
+  margin-top: 20px;
+}
+.idea12 {
+  margin: 55px 153px 18px;
+}
+.setting12 {
+  margin: 55px 153px 18px;
+}
+#srow1 {
+  background-color: white;
+  border-radius: 85px;
+  h5 {
+    margin-top: 20px;
+  }
+}
+
+.world {
+  margin: 55px 122px 18px;
+}
+.idea12 {
+  margin: 55px 122px 18px;
+}
+.setting12 {
+  margin: 55px 122px 18px;
+}
+.h6 {
+  padding: 0px 68px;
+  text-align: center;
+}
+.h61 {
+  padding: 0px 68px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.h62 {
+  padding: 0px 68px;
+  text-align: center;
+}
+/* <!-- ............Section7........... --> */
+.sec7 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(Assests/sec7\ bg.jpg);
+}
+#sec7p {
+  /* border: 1px solid red; */
+  padding: 92px 146px;
+}
+
+.from {
+  width: 415px;
+  height: 300px;
+  background-color: #d5dde4;
+  display: flex;
+  border-radius: 30px;
+}
+.email {
+  width: 300px;
+  height: 26px;
+  position: relative;
+  top: 33px;
+  border-radius: 10px;
+  left: -32px;
+  border: none;
+}
+.name {
+  width: 300px;
+  height: 26px;
+  position: relative;
+  top: 33px;
+  border-radius: 10px;
+  left: -47px;
+  border: none;
+}
+.para {
+  position: relative;
+  left: 20px;
+  top: 10px;
+  opacity: 0.8;
+}
+.message {
+  position: relative;
+  top: 83px;
+  right: 439px;
+  opacity: 0.8;
+}
+.mess {
+  width: 380px;
+  height: 127px;
+  border: none;
+  border-radius: 20px;
+}
+.SEO {
+  padding: 124px 96px 0px 0px;
+}
+.submit1 {
+  border: none;
+  color: white;
+  background-color: blue;
+  border-radius: 30px;
+  position: relative;
+  top: 10px;
+  left: 172px;
+}
+/* <!-- ............Section8........... --> */
+.sec8 {
+  width: 100%;
+  height: 357px;
+  background-color: orange;
+  padding: 50px 281px;
+}
+.sec8d {
+  background-color: white;
+  width: 840px;
+  height: 266px;
+  border: none;
+  border-radius: 30px;
+}
+#call {
+  color: orange;
+}
+
+.getbtn {
+  border: none;
+  color: white;
+  background-color: blueviolet;
+  border-radius: 30px;
+  position: relative;
+  left: 335px;
+  width: 150px;
+  height: 39px;
+  bottom: 56px;
+}
+
+/* <!-- ............Section9........... --> */
+
+.sec9 {
+  background-color: #d5dde4;
+  height: 497px;
+}
+.class1 {
+  background-color: white;
+  border-radius: 30px;
+  p {
+    padding: 0px 71px;
+  }
+}
+.class2 {
+  background-color: white;
+  border-radius: 30px;
+  margin-left: 20px;
+  p {
+    padding: 0px 71px;
+  }
+}
+
+.customers {
+  text-align: center;
+  padding: 40px 0px 20px 0px;
+  row-gap: 10px;
+  p {
+    padding: 0px 506px;
+  }
+}
+.customers2 {
+  display: inline-flex;
+  padding: 0px 228px;
+}
+.girl {
+  display: flex;
+  margin-left: 62px;
+  img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+  }
+}
+.boy {
+  display: flex;
+  margin-left: 62px;
+  img {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+  }
+}
+.ceo {
+  padding: 6px 20px 0px 20px;
+  p {
+    padding: 0px;
+  }
+}
+.customers3 {
+  border: none;
+  color: white;
+  background-color: blueviolet;
+  border-radius: 30px;
+  position: relative;
+  left: 596px;
+  width: 150px;
+  height: 39px;
+  top: 30px;
+}
+
+/* <!-- ............Section10........... --> */
+.container-fluid {
+  padding: 0px;
+  margin-top: -15px;
+  overflow-x: hidden;
+}
+
+/* ..............TEAM WEBPAGE........ */
+.tsec1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(Assests/Team\ bg.jpg);
+}
+.tsub1 {
+  padding: 171px 361px 53px;
+  text-align: center;
+}
+/* .............section2............ */
+#tsub2 {
+  text-align: center;
+  padding: 25px 332px;
+}
+.totalpart {
+  /* border: 2px solid green; */
+  display: grid;
+  row-gap: 20px;
+  margin-left: 30px;
+}
+.part1 {
+  /* border: 2px soild red; */
+  display: flex;
+  gap: 20px;
+  h6 {
+    color: blue;
+  }
+}
+.part2 {
+  /* border: 2px soild red; */
+  display: flex;
+  gap: 20px;
+  h6 {
+    color: blue;
+  }
+}
+.part3 {
+  /* border: 2px soild red; */
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+  h6 {
+    color: blue;
+  }
+}
+.part11 {
+  /* border: 1px solid red; */
+  width: 350px;
+  height: 300px;
+  border-radius: 30px;
+  text-align: center;
+  padding: 0px 30px;
+  box-shadow: 5px 5px 19px 0 rgba(0, 0, 0, 0.15);
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+}
+.part12 {
+  /* border: 1px solid red; */
+  width: 350px;
+  height: 300px;
+  border-radius: 30px;
+  text-align: center;
+  padding: 0px 30px;
+  box-shadow: 5px 5px 19px 0 rgba(0, 0, 0, 0.15);
+
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+}
+.part13 {
+  /* border: 1px solid red; */
+  width: 350px;
+  height: 300px;
+  border-radius: 30px;
+  text-align: center;
+  padding: 0px 30px;
+  box-shadow: 5px 5px 19px 0 rgba(0, 0, 0, 0.15);
+
+  img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+  }
+}
+/* .........Gallery......... */
+#rocket {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+}
+
+#READ {
+  border-radius: 30px;
+  background-color: rgb(107, 102, 179);
+  color: white;
+  text-align: center;
+  width: 130px;
+  height: 30px;
+  font-weight: 600;
+  border: none;
+}
+.gsec2 {
+  background-color: #989ca0;
+  padding: 20px 255px;
+}
+#pic2 {
+  margin-top: 20px;
+}
+#man:hover {
+  opacity: 0.6;
+  transition: 0.3s;
+}
+
+#pic3 {
+  margin-top: 20px;
+}
+#dsec3 {
+  padding: 10px 100px;
+}
+/* .........Contact......... */
+
+.csec5 {
+  background-color: #e6eef5;
+}
+.csub1 {
+  text-align: center;
+  padding: 30px;
+}
+
+.csub2 {
+  padding: 40px 145px;
+}
+#csub3 {
+  border: 1px soid red;
+  width: 400px;
+  height: 300px;
+}
+#part11 {
+  /* border: 1px solid red; */
+  width: 350px;
+  height: 209px;
+  border-radius: 30px;
+  text-align: center;
+  padding: 0px 30px;
+  background-color: white;
+  box-shadow: 5px 5px 19px 0 rgba(0, 0, 0, 0.15);
+  h6 {
+    color: blue;
+  }
+}
+.mailicon {
+  margin-top: 38px;
+  margin-bottom: 20px;
+}
+/* .........About.......... */
+
+.asec2 {
+  margin-top: 65px;
+}
+
+/* ..........Media Query Response....... */
+@media screen and (max-width: 575px) {
+  .sub1 {
+    background-position: right;
+  }
+
+  #box1 {
+    padding: 30px 30px;
+    text-align: center;
+    img {
+      width: 300px;
+      height: 300px;
+    }
+  }
+
+  #box2 {
+    text-align: center;
+    padding: 2px 23px;
+    margin-top: 0px;
+    p {
+      font-size: 15px;
+      font-size: 15px;
+      padding: 0px 20px 18px;
+    }
+  }
+  .btn {
+    width: 300px !important;
+    margin: auto;
+  }
+
+  .icon {
+    position: relative;
+  }
+  .num {
+    margin-left: 0px;
+    font-size: 1.3rem;
+    margin-bottom: 7px;
+  }
+  /* .............symbols................. */
+  .sym {
+    margin-top: 0px;
+  }
+  #symbols {
+    margin-left: 0px;
+    gap: 25px;
+  }
+
+  #sec2sub1 {
+    padding: 20px 35px;
+    text-align: center;
+  }
+  /* //Section 2 //  */
+  .icon1 {
+    text-align: center;
+  }
+  .idea {
+    text-align: center;
+  }
+  .setting {
+    text-align: center;
+  }
+  .map {
+    text-align: center;
+  }
+  /* .............Section 3................. */
+  #mobile {
+    padding: 0px !important;
+    text-align: center;
+    img {
+      width: 350px;
+      height: auto;
+      padding: 20px;
+      margin-left: 25px;
+    }
+  }
+
+  #mobile1 {
+    padding: 0px;
+    text-align: center;
+    h1 {
+      padding: 10px 30px;
+      font-size: 2rem;
+    }
+    p {
+      padding: 0px 34px;
+    }
+    .READ {
+      margin-bottom: 15px;
+    }
+  }
+  #total {
+    border-radius: 0px;
+  }
+  .subsec3 {
+    height: 272px;
+  }
+  .convert {
+    display: block;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    border-radius: 98px;
+    padding: 0px;
+    h1 {
+      padding: 15px 40px 0px;
+      margin-top: 10px;
+    }
+  }
+
+  .get {
+    margin-top: 13px;
+    margin-left: 0px;
+    margin-bottom: 20px;
+  }
+  /* .............Section 4................. */
+
+  #number {
+    width: 350px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 0px;
+    row-gap: 15px;
+    height: auto;
+  }
+  #number2 {
+    padding: 30px;
+    text-align: center;
+    img {
+      width: 350px;
+      height: auto;
+    }
+  }
+
+  /* .............Section 5................. */
+  #he {
+    padding: 0px;
+    background-color: white;
+    margin-top: 30px;
+    p {
+      padding: 10px 30px;
+    }
+  }
+  #row1 {
+    padding: 0px 25px;
+    margin: auto;
+    row-gap: 10px;
+    justify-content: center;
+  }
+  /* .............section6........... */
+  .world {
+    text-align: center;
+  }
+  .idea12 {
+    text-align: center;
+  }
+  .setting12 {
+    text-align: center;
+  }
+  .digital {
+    p {
+      padding: 0px;
+    }
+  }
+  .sec6 {
+    margin-top: 20px;
+    height: auto;
+  }
+  #row8 {
+    padding: 0px;
+    margin: auto;
+    margin-top: 20px;
+    gap: 20px !important;
+  }
+  #srow11 {
+    margin-bottom: 20px;
+    .idea {
+      margin: 55px 159px 18px !important;
+    }
+  }
+
+  /* .............section7........... */
+  #sec7p {
+    padding: 0px;
+    text-align: center;
+    margin-top: 40px;
+    img {
+      width: 300px;
+      height: auto;
+    }
+  }
+  .SEO {
+    padding: 3px;
+  }
+  .para {
+    position: relative;
+    left: 15px;
+  }
+
+  .from {
+    width: 300px;
+    display: block;
+    height: 331px;
+    margin: auto;
+    margin-bottom: 15px;
+  }
+  .email {
+    width: 235px;
+    height: 26px;
+    position: relative;
+    top: 0px;
+    left: 10px;
+  }
+  .name {
+    width: 235px;
+    height: 26px;
+    position: relative;
+    top: 0px;
+    left: 10px;
+  }
+  .message {
+    position: static;
+    margin-left: 17px;
+    margin-top: 10px;
+  }
+  .mess {
+    width: 275px;
+    height: 95px;
+    position: relative;
+    right: 7px;
+    bottom: 10px;
+  }
+  .submit1 {
+    position: relative;
+    left: 93px;
+    top: 7px;
+    width: 100px;
+  }
+
+  /* .............section8........... */
+  .sec8 {
+    padding: 10px;
+    text-align: center;
+  }
+  .sec8d {
+    width: 300px;
+    margin: 30px 04px;
+  }
+  .getbtn {
+    bottom: 83px;
+    left: 10px;
+  }
+
+  /* .............section9........... */
+
+  .sec9 {
+    height: auto;
+    padding-bottom: 20px;
+  }
+  .customers {
+    padding: 13px;
+    p {
+      padding: 0px 10px;
+    }
+  }
+  .customers2 {
+    display: block;
+    padding: 0px 30px 15px;
+  }
+  .class2 {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .customers3 {
+    position: relative;
+    left: 121px;
+    top: 10px;
+  }
+  /* ..............TEAM WEBPAGE........ */
+  .tsub1 {
+    padding: 15px;
+  }
+  #tsub2 {
+    padding: 0px;
+  }
+  .totalpart {
+    justify-content: center;
+    margin-left: 0px;
+  }
+  .part1 {
+    display: block;
+    margin: auto;
+    width: 350px !important;
+
+    .part11 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .part12 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .part13 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+  }
+  .part2 {
+    display: block;
+
+    .part11 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .part12 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .part13 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+  }
+  .part3 {
+    display: block;
+    .part11 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .part12 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+    .part13 {
+      padding: 10px;
+      margin-top: 20px;
+    }
+  }
+
+  /* ........GALLERY......... */
+  .gsec2 {
+    text-align: center;
+    padding: 20px;
+  }
+  #man {
+    img {
+      width: 320px !important;
+    }
+  }
+  #pic1 {
+    margin-top: 20px;
+    gap: 20px;
+  }
+  #pic2 {
+    margin-top: 20px;
+    gap: 20px;
+  }
+  #pic3 {
+    margin-top: 20px;
+    gap: 20px;
+  }
+  #dsec3 {
+    padding: 0px;
+  }
+
+  /* ............Contact.......... */
+
+  .csub1 {
+    padding: 30px 30px 0px;
+  }
+  .csub2 {
+    padding: 20px 13px;
+  }
+  .csec5 {
+    margin-top: 20px;
+  }
+  #part11 {
+    padding: 10px 0px;
+    margin-top: 20px !important;
+  }
+}
