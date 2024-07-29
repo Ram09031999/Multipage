@@ -1,5 +1,8 @@
 /* ..............hOME.......... */
 
+body {
+  overflow-x: hidden;
+}
 .sub1 {
   background-repeat: no-repeat;
   background-size: cover;
