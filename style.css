@@ -314,6 +314,7 @@ body {
 #srow1 {
   background-color: white;
   border-radius: 85px;
+  margin-bottom: 20px;
   h5 {
     margin-top: 20px;
   }
@@ -811,7 +812,7 @@ body {
     padding: 30px;
     text-align: center;
     img {
-      width: 350px;
+      width: 300px;
       height: auto;
     }
   }
@@ -854,7 +855,6 @@ body {
     padding: 0px;
     margin: auto;
     margin-top: 20px;
-    gap: 20px !important;
   }
   #srow11 {
     margin-bottom: 20px;
