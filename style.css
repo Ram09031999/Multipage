@@ -725,7 +725,8 @@ body {
     margin-top: 0px;
   }
   #symbols {
-    margin-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
     gap: 25px;
   }
 
